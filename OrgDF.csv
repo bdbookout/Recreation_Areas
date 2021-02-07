@@ -1,0 +1,32 @@
+,OrgID,OrgName,OrgImageURL,OrgURLText,OrgURLAddress,OrgType,OrgAbbrevName,OrgJurisdictionType,OrgParentID,LastUpdatedDate
+0,126,Bureau of Land Management,blm.gif,,http://www.blm.gov,Federal Agency,BLM,Federal,139,2018-06-26
+1,127,Fish and Wildlife Service,fws.gif,,http://www.fws.gov,Federal Agency,FWS,Federal,139,2018-06-26
+2,128,National Park Service,nps.gif,,http://www.nps.gov,Federal Agency,NPS,Federal,139,2018-06-26
+3,129,Bureau of Reclamation,bor.gif,,http://www.usbr.gov,Federal Agency,BOR,Federal,139,2018-06-26
+4,130,US Army Corps of Engineers,uasce.gif,,http://www.usace.army.mil,Federal Agency,USACE,Federal,162,2018-06-26
+5,132,Tennessee Valley Authority,tva.gif,,http://www.tva.gov,Federal Agency,TVA,Federal,157,2018-08-26
+6,133,Department of Transportation,dot.gif,,http://www.dot.gov,Federal Department,DOT,Federal,157,2019-02-14
+7,135,Smithsonian Institution,si.gif,,http://www.si.edu,Federal Agency,SI,Federal,157,2018-06-26
+8,139,Department of the Interior,doi.gif,,http://www.doi.gov/museum/interiormuseum/mission.htm,Federal Department,DOI,Federal,157,2018-06-26
+9,143,National Register of Historic Places,NRHP.gif,,http://www.cr.nps.gov/nr/,Federal Agency,NRHP,Federal,238,2018-06-26
+10,157,FEDERAL,,,,Label,FED,Federal,0,2018-06-26
+11,137,National Oceanic and Atmospheric Administration,NOS.gif,,http://www.noaa.gov,Federal Agency,NOAA,Federal,161,2018-08-26
+12,138,Smithsonian Institution Affiliations Program,SIAP.gif,,http://affiliations.si.edu/,Federal Agency,SIAP,Federal,135,2018-08-26
+13,161,Department of Commerce,,,,Federal Department,DOC,Federal,157,2018-06-26
+14,162,Department of Defense,,,,Federal Department,DOD,Federal,157,2018-06-26
+15,163,Department of Agriculture,,,http://www.usda.gov,Federal Department,USDA,Federal,157,2018-06-26
+16,234,Department of the Treasury,,,http://www.treasury.gov/,Federal Department,Treasury,Federal,157,2018-06-26
+17,236,Bureau of Engraving and Printing,,,http://www.moneyfactory.gov/,Federal Agency,BEP,Federal,234,2018-06-26
+18,238,Historic Hotels of America,,,http://www.historichotels.org/,Federal Agency,,Federal,128,2018-06-26
+19,240,STATE PARKS,,,,Label,STATEPARKS,State,0,2018-06-26
+20,5000,United States Geological Survey,,,https://www.usgs.gov/,Federal Agency,USGS,Federal,139,2018-06-26
+21,131,USDA Forest Service,fs.jpg,,http://www.fs.fed.us,Federal Agency,FS,Federal,163,2018-06-26
+22,241,Maryland,,,,State,MD,State,240,2018-08-26
+23,243,Texas,,,,State,TX,State,240,2018-08-26
+24,244,Utah,,,,State,UT,State,240,2018-08-26
+25,245,New Mexico,,,,State,NM,State,240,2018-08-26
+26,5001,Virginia,,,http://www.dcr.virginia.gov/state-parks/,State,VA,State,240,2019-02-14
+27,159,US Air Force,,,http://www.af.mil/,Federal Agency,USAF,Federal,162,2019-02-14
+28,192,National Archives and Records Administration,,,http://www.archives.gov,Federal Agency,NARA,Federal,157,2019-02-14
+29,206,American Battle Monuments Commission,,,http://www.abmc.gov/home.php,Federal Agency,ABMC,Federal,0,2019-02-14
+30,239,National Historic Landmark,,,http://www.nps.gov/nhl/,Federal Agency,NHL,Federal,238,2019-02-14
